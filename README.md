@@ -21,4 +21,5 @@ The problems range in difficulty and for many the experience is inductive chain 
 欧拉计划的题目难度不一，对于大多数人来说，解题就是一个逐渐学习的过程。也就是说，每当你解开一个题目，你将会了解一些新的知识，从而帮助你着手解决以前无从下手的题目。因此，任何有决心的参与者，即使进展再缓慢，也一定能逐一解开每一道题。
 
 > "Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."
+
 > “欧拉计划的存在，是为了每个对数学感兴趣的人，鼓励他们，挑战他们，并最终培养他们的能力与乐趣。”
