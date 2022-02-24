@@ -20,14 +20,5 @@ The intended audience include students for whom the basic curriculum is not feed
 The problems range in difficulty and for many the experience is inductive chain learning. That is, by solving one problem it will expose you to a new concept that allows you to undertake a previously inaccessible problem. So the determined participant will slowly but surely work his/her way through every problem.
 欧拉计划的题目难度不一，对于大多数人来说，解题就是一个逐渐学习的过程。也就是说，每当你解开一个题目，你将会了解一些新的知识，从而帮助你着手解决以前无从下手的题目。因此，任何有决心的参与者，即使进展再缓慢，也一定能逐一解开每一道题。
 
-
-### What next?
-### 下一步做什么？
-In order to track your progress it is necessary to setup an account and have Cookies enabled. If you already have an account then Login, otherwise please Register – it's completely free!
-为了记录你的解题进展，你需要注册一个账户，并保证你的浏览器启用Cookies。如果你已经拥有账户，请登录，否则请注册——这是完全免费的！
-
-However, as the problems are challenging then you may wish to view the Problems before registering.
-不过，由于题目具有挑战性，你也许应该先了解一下题目再开始注册。
-
-"Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."
-“欧拉计划的存在，是为了每个对数学感兴趣的人，鼓励他们，挑战他们，并最终培养他们的能力与乐趣。”
+> "Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."
+> “欧拉计划的存在，是为了每个对数学感兴趣的人，鼓励他们，挑战他们，并最终培养他们的能力与乐趣。”
